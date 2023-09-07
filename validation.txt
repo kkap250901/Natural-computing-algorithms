@@ -1,0 +1,24 @@
+validation for student 'ccbd24':
+
+'NatAlgDiscreteA.py' exists in the folder 'ccbd24'
+'NatAlgDiscreteB.py' exists in the folder 'ccbd24'
+'NatAlgDiscreteC.py' exists in the folder 'ccbd24'
+'NatAlgReal.py' exists in the folder 'ccbd24'
+'NatAlgReport.pdf' exists in the folder 'ccbd24'
+'NegSelReport.pdf' exists in the folder 'ccbd24'
+'NegSelTraining.py' exists in the folder 'ccbd24'
+'WitnessA.txt' exists in the folder 'ccbd24'
+'WitnessB.txt' exists in the folder 'ccbd24'
+'WitnessC.txt' exists in the folder 'ccbd24'
+for 'NegSelTraining.py':
+  username = 'ccbd24'; algorithm code = 'VD'
+for 'NatAlgReal.py':
+  username = 'ccbd24'; algorithm code = 'AB'
+for 'NatAlgDiscreteA.py':
+  username = 'ccbd24'; algorithm code = 'AB'; problem code = 'GC'; graph digit = 'A'
+for 'NatAlgDiscreteB.py':
+  username = 'ccbd24'; algorithm code = 'AB'; problem code = 'GC'; graph digit = 'B'
+for 'NatAlgDiscreteC.py':
+  username = 'ccbd24'; algorithm code = 'AB'; problem code = 'GC'; graph digit = 'C'
+
+Your submission has successfully validated!
